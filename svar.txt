@@ -1,0 +1,5 @@
+2) 
+- .env 
+- kun essensiel data 
+- SQL injection, XSS etc. 
+- 
